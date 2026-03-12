@@ -1,4 +1,4 @@
-# Welcome to KMA NMSC GitHub! 🇰🇷
+# Welcome to KMA NMSC GitHub!
 National Meteorological Satellite Center (NMSC) of the Korea Meteorological Administration.
 
 Have a look at some of our popular topics:
